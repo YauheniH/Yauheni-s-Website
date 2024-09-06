@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(45deg, yellow, orange, pink, purple, blue);
+    height: 100vh; /* Full height */
+    display: flex;
+    justify-content: center; /* Horizontally center */
+    align-items: center;    /* Vertically center */
+    margin: 0; /* Remove default margins */
+}
+
+/* Style the h1 header */
+h1 {
+    color: #6de491;        /* Text color */
+    font-size: 80px;   /* Large font */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
